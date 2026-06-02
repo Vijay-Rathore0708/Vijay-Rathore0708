@@ -9,7 +9,7 @@
 <img src="https://i.pinimg.com/originals/d0/97/9b/d0979b26cec609049b3d1a3dee5b89b3.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🎓 Pre-Final Year M.Tech (IT) Student | ☕ Java & 🌱 Spring Boot Developer
+- 🎓 Final Year M.Tech (IT) Student | ☕ Java & 🌱 Spring Boot Developer
 - 🚀 Building Scalable REST APIs & Backend Applications
 - 💻 Aspiring Backend Developer | 🧩 Problem Solver | 🌟 Future Software Engineer
 
@@ -88,12 +88,18 @@
 <p align="center">
   <a href="linkedin.com/in/vijay-rathod-3907a8267">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/6263763607">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="www.youtube.com/@vijayrathod0708">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:vijayrathore0708@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://sites.google.com/view/vijayrathod/home">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
 
